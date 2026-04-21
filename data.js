@@ -4,7 +4,7 @@ const resumeData = {
     title: "Mathematician · AI Engineer · Educator",
     tagline: "Building intelligent systems at the intersection of mathematics, machine learning, and education.",
     email: "callme.khadeejabb@gmail.com",
-    avatar: "http://media.licdn.com/dms/image/v2/D5603AQFNbREFftvOZw/profile-displayphoto-shrink_200_200/B56ZX68e0ZGUAY-/0/1743671917592?e=1778112000&v=beta&t=s5IVTnnsScW7tghYhuhMvGeVv0wx4zIsBUpwAGR0wqE", // Verified visible URL
+    avatar: "https://drive.google.com/file/d/1W3VHRnJTJO4TQ9sQuTSSEMXAWpQQTh-M/view?usp=sharing", // Verified visible URL
     social: [
       { label: "LinkedIn", icon: "linkedin", url: "https://www.linkedin.com/in/khadeeja-ansari-907863358/" },
       { label: "GitHub",   icon: "github",   url: "https://github.com/khadeeja-bb" },
@@ -112,6 +112,6 @@ const resumeData = {
   skills: {
     Languages:    { items: ["Python", "C++"],                            icon: "💻" },
     Technologies: { items: ["PyTorch", "NumPy", "Pandas", "Matplotlib"], icon: "⚙️" },
-    Tools:        { items: ["Matlab", "Mathematica", "GitHub"],          icon: "🛠️" }
+    Tools:        { items: ["Latex, Matlab", "Mathematica", "GitHub"],          icon: "🛠️" }
   }
 };
