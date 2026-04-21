@@ -35,6 +35,7 @@ const resumeData = {
     { text: "115+ DSA problems on LeetCode, focusing on graph theory and dynamic programming.", badge: "💡 115+ DSA", category: "Technical", url: "https://leetcode.com/u/Khadeeja__Ansari" },
     { text: "IELTS Academic Band 6.5 across all four modules — Listening, Reading, Speaking, Writing.", badge: "📝 IELTS 6.5", category: "Academic", url: "https://www.linkedin.com/posts/khadeeja-ansari-907863358_ielts-growthmindset-studyabroad-share-7434405186451763201-Fthw" },
     { text: "Brilliant Student Award from Govt. Murray College Sialkot for exceptional academic performance.", badge: "⭐ Brilliant Student", category: "Academic", url: "https://www.linkedin.com/posts/khadeeja-ansari-907863358_starting-again-but-not-from-zero-sharing-activity-7441729069848637440-uSki" },
+    { text: "PEEF Scholarship at matriculation level — merit-based award for top-performing students.", badge: "🎓 PEEF Scholar", category: "Scholarship", url: "https://www.linkedin.com/posts/khadeeja-ansari-907863358_starting-again-but-not-from-zero-sharing-ugcPost-7441729066715660288-tGxj" },
     { text: "PEEF Scholarship at matriculation level — merit-based award for top-performing students.", badge: "🎓 PEEF Scholar", category: "Scholarship", url: "https://www.linkedin.com/posts/khadeeja-ansari-907863358_starting-again-but-not-from-zero-sharing-ugcPost-7441729066715660288-tGxj" }
   ],
 
