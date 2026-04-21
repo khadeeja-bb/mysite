@@ -4,7 +4,7 @@ const resumeData = {
     title: "Mathematician · AI Engineer · Educator",
     tagline: "Building intelligent systems at the intersection of mathematics, machine learning, and education.",
     email: "callme.khadeejabb@gmail.com",
-    avatar: "https://drive.google.com/file/d/1W3VHRnJTJO4TQ9sQuTSSEMXAWpQQTh-M/view?usp=sharing", // Verified visible URL
+    avatar: "dp.jpg", // Verified visible URL
     social: [
       { label: "LinkedIn", icon: "linkedin", url: "https://www.linkedin.com/in/khadeeja-ansari-907863358/" },
       { label: "GitHub",   icon: "github",   url: "https://github.com/khadeeja-bb" },
